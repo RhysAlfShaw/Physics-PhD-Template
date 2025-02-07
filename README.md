@@ -2,6 +2,8 @@
 
 2025
 
+![Physics PhD Thesis Template](Frontpage.png)
+
 ## How to use
 To Use this template please do the following:
 - Fork this repository.
